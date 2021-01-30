@@ -1,0 +1,10 @@
+D:\Projects\Threads_test\Threads_test\bin\Release\netcoreapp3.1\Threads_test.exe
+D:\Projects\Threads_test\Threads_test\bin\Release\netcoreapp3.1\Threads_test.deps.json
+D:\Projects\Threads_test\Threads_test\bin\Release\netcoreapp3.1\Threads_test.runtimeconfig.json
+D:\Projects\Threads_test\Threads_test\bin\Release\netcoreapp3.1\Threads_test.runtimeconfig.dev.json
+D:\Projects\Threads_test\Threads_test\bin\Release\netcoreapp3.1\Threads_test.dll
+D:\Projects\Threads_test\Threads_test\bin\Release\netcoreapp3.1\Threads_test.pdb
+D:\Projects\Threads_test\Threads_test\obj\Release\netcoreapp3.1\Threads_test.AssemblyInfoInputs.cache
+D:\Projects\Threads_test\Threads_test\obj\Release\netcoreapp3.1\Threads_test.AssemblyInfo.cs
+D:\Projects\Threads_test\Threads_test\obj\Release\netcoreapp3.1\Threads_test.dll
+D:\Projects\Threads_test\Threads_test\obj\Release\netcoreapp3.1\Threads_test.pdb
